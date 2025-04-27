@@ -7,4 +7,20 @@
 <div><b>Validation</b> : Amount should be multiple of 10 only</div>
 <div><b>Output</b> : Minimum numbers of notes required for highest denomination form</div>
 
+<br>
+<div><b>e.g. #1</b></div>
+<div><b>Input</b> : 5100</div>
+<div><b>Output</b>: 2 notes of 2000, 2 notes of 500,1 note of 100</div>
+<div><b>Output(with available notes of 3000,1000,300,100,40,20,10)</b>: 1 note of 3000,2 notes of 1000,1 note of 100</div>
+
+
+<br>
+<div><b>e.g. #2</b></div>
+<div><b>Input</b> : 5100</div>
+<div><b>Output</b>: 2 notes of 2000, 2 notes of 500,1 note of 100</div>
+<div><b>Output(with available notes of 3000,1000,300,100,40,20,10)</b>: 1 note of 3000,2 notes of 1000,1 note of 100</div>
+
+
+
+
 
