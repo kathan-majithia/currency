@@ -16,9 +16,11 @@
 
 <br>
 <div><b>e.g. #2</b></div>
-<div><b>Input</b> : 5100</div>
-<div><b>Output</b>: 2 notes of 2000, 2 notes of 500,1 note of 100</div>
-<div><b>Output(with available notes of 3000,1000,300,100,40,20,10)</b>: 1 note of 3000,2 notes of 1000,1 note of 100</div>
+<div><b>Input</b> : 1670</div>
+<div><b>Output</b>: 3 notes of 500, 1 note of 100,1 note of 50,1 note of 20</div>
+<div><b>Output(with available notes of 3000,1000,300,100,40,20,10)</b>: 1 note of 1000,2 notes of 300,1 note of 40,1 note of 20,1 note of 10</div>
+
+
 
 
 
